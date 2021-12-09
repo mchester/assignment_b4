@@ -9,7 +9,7 @@ https://mchester.shinyapps.io/app_b4/
 
 ### Is this Option A, B, or C?
 
-This is option C. This is new app with the boxplot component from assignment_b3.  
+Option C has been selected. This is a new app that uses the boxplot component from the app created in assignment_b3.  
 
 ### Why use this app?
 

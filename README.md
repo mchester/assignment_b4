@@ -2,10 +2,10 @@
 
 This is the README.MD for STAT 545B assignment_b4.
 
-### Where can I download?
+### Where can I download the app?
 
 You can download the app at this link:
-https://mchester.shinyapps.io/app_b4/ 
+https://mchester.shinyapps.io/app_b4/
 
 ### Is this Option A, B, or C?
 
